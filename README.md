@@ -1,3 +1,3 @@
 # CoreDataProject
 
-learning and practicing with CoreData
+Learning and practicing with CoreData.
